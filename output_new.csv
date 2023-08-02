@@ -1,0 +1,410 @@
+CAN_ID_DEZ,CAN_ID_HEX,CAN_ID_NAME,DIAG_ID_DEZ,DIAG_ID_HEX,SG_NAME
+173,0xAD,Delay request ACC [9],33,0x21,ACC_Modul/ACC+NAVI
+183,0xB7,Torque requirement ACC [10],33,0x21,ACC_Modul/ACC+NAVI
+400,0x190,ACC [13],33,0x21,ACC_Modul/ACC+NAVI
+1185,0x4A1,Network management,33,0x21,ACC+NAVI/ACC_Modul
+1441,0x5A1,services,33,0x21,ACC+NAVI/ACC_Modul
+215,0xD7,Alive counter security [2],1,0x1,ACSM
+309,0x135,Control of crash shutdown EKP [1],1,0x1,ACSM
+510,0x1FE,Crash [12],1,0x1,ACSM
+762,0x2FA,Seat occupancy belt contacts (14),1,0x1,ACSM
+1153,0x481,Network management,1,0x1,ACSM
+1409,0x581,services,1,0x1,ACSM
+179,0xB3,Control steering support [2],22,0x16,AFS
+185,0xB9,Torque requirement AFS [3],22,0x16,AFS
+508,0x1FC,Status AFS [4],22,0x16,AFS
+1174,0x496,Network management,22,0x16,AFS
+1430,0x596,services,22,0x16,AFS
+740,0x2E4,Status trailer (8),113,0x71,AHM
+1265,0x4F1,Network management,113,0x71,AHM
+1521,0x5F1,services,113,0x71,AHM
+567,0x237,Status of backrest width adjustment Active BF [3],90,0x5A,aLBV_BF
+1242,0x4DA,Network management,90,0x5A,aLBV_BF
+1498,0x5DA,services,90,0x5A,aLBV_BF
+569,0x239,Status of backrest width adjustment Active FA [3],89,0x59,aLBV_FA
+1241,0x4D9,Network management,89,0x59,aLBV_FA
+1497,0x5D9,services,89,0x59,aLBV_FA
+1207,0x4B7,Network management,55,0x37,AMP_TOP
+1463,0x5B7,services,55,0x37,AMP_TOP
+190,0xBE,Alive counter [12],35,0x23,ARS_Modul
+428,0x1AC,Status ARS module [13],35,0x23,ARS_Modul
+1187,0x4A3,Network management,35,0x23,ARS_Modul
+1443,0x5A3,services,35,0x23,ARS_Modul
+1244,0x4DC,Network management,92,0x5C,Behoerde
+1500,0x5DC,services,92,0x5C,Behoerde
+304,0x130,Terminal status [19],64,0x40,CAS
+474,0x1DA,Operation climate telescope [5],64,0x40,CAS
+570,0x23A,Status radio key [13],64,0x40,CAS
+598,0x256,Challenge Passive Access [10],64,0x40,CAS
+622,0x26E,Control FH/SHD central (comfort) [10],64,0x40,CAS
+644,0x284,Control remote start security vehicle [8],64,0x40,CAS
+671,0x29F,Remote control Fondcommander [5],64,0x40,CAS
+672,0x2A0,Control central locking [10],64,0x40,CAS
+764,0x2FC,ZV and folding condition [11],64,0x40,CAS
+896,0x380,Carrot number [5],64,0x40,CAS
+904,0x388,Vehicle type [13],64,0x40,CAS
+917,0x395,Coding Power Management [2],64,0x40,CAS
+958,0x3BE,Subsequent running time power supply [5],64,0x40,CAS
+981,0x3D5,Status central locking CKM [4],64,0x40,CAS
+1984,0x7C0,CAS programming Band end 1 (3),64,0x40,CAS
+1986,0x7C2,CAS application message 1 (3),64,0x40,CAS
+1216,0x4C0,Network management,64,0x40,CAS
+1472,0x5C0,services,64,0x40,CAS
+540,0x21C,Operation Night vision [2],98,0x62,CCC_GW
+632,0x278,Navigation graph [3],98,0x62,CCC_GW
+634,0x27A,Synchronization navigation graph [4],98,0x62,CCC_GW
+840,0x348,Compliance Navigation Graph [4],98,0x62,CCC_GW
+842,0x34A,Navigation GPS 1 [5],98,0x62,CCC_GW
+844,0x34C,Navigation GPS 2 [5],98,0x62,CCC_GW
+846,0x34E,Navigation system information [6],98,0x62,CCC_GW
+1250,0x4E2,Network management,98,0x62,CCC_GW/M_ASK
+1506,0x5E2,services,98,0x62,CCC_GW/M_ASK
+552,0x228,Operation special function [8],99,0x63,CCC_MM
+759,0x2F7,Units [10],99,0x63,CCC_MM
+1251,0x4E3,Network management,99,0x63,CCC_MM
+1507,0x5E3,services,99,0x63,CCC_MM
+1212,0x4BC,Network management,60,0x3C,CDC
+1468,0x5BC,services,60,0x3C,CDC
+826,0x33A,Status Monitor Front [3],115,0x73,CID_C_H/CID_C
+1267,0x4F3,Network management,115,0x73,CID_C/CID_C_H
+1523,0x5F3,services,115,0x73,CID_C/CID_C_H
+1291,0x50B,Network management,139,0x8B,CNV
+1547,0x60B,services,139,0x8B,CNV
+638,0x27E,Status Deck Cabrio [7],36,0x24,CVM_V
+959,0x3BF,Position window lifter rear window [1],36,0x24,CVM_V
+1188,0x4A4,Network management,36,0x24,CVM_V
+1444,0x5A4,services,36,0x24,CVM_V
+1243,0x4DB,Network management,91,0x5B,DAB
+1499,0x5DB,services,91,0x5B,DAB
+1170,0x492,Network management,18,0x12,DDE1/DME1
+1426,0x592,services,18,0x12,DDE1/DME1
+1393,0x571,Network management,241,0xF1,Diagnosedose
+1649,0x671,services,241,0xF1,Diagnosedose
+1002,0x3EA,Marker 2 [3],126,0x7E,Diagnosetool_K_CAN_System
+1022,0x3FE,Requirement can_testool Si-Bus [5],126,0x7E,Diagnosetool_K_CAN_System
+1278,0x4FE,Network management,126,0x7E,Diagnosetool_K_CAN_System
+1534,0x5FE,services,126,0x7E,Diagnosetool_K_CAN_System
+1003,0x3EB,Marker 3 [1],125,0x7D,Diagnosetool_PT_CAN
+1277,0x4FD,Network management,125,0x7D,Diagnosetool_PT_CAN
+1533,0x5FD,services,125,0x7D,Diagnosetool_PT_CAN
+184,0xB8,Torque requirement DKG [2],24,0x18,DKG
+1176,0x498,Network management,24,0x18,DKG/EGS_MECH/EGS_MECH+NAVI/SMG/SMG_M
+1432,0x598,services,24,0x18,DKG/EGS_MECH/EGS_MECH+NAVI/SMG/SMG_M
+518,0x206,Control Ads Shiftlights [1],18,0x12,DME1
+823,0x337,Status fuel control DME [1],18,0x12,DME1
+921,0x399,Status M-Drive [2],18,0x12,DME1
+168,0xA8,Torque 1 K-CAN [10],18,0x12,DME1/DDE1
+169,0xA9,Torque 2 (10),18,0x12,DME1/DDE1
+170,0xAA,Torque 3 K-CAN [10],18,0x12,DME1/DDE1
+172,0xAC,Radmoment drive train 2 [5],18,0x12,DME1/DDE1
+180,0xB4,Radmoment drive train 1 [4],18,0x12,DME1/DDE1
+438,0x1B6,Heat current motor [11],18,0x12,DME1/DDE1
+464,0x1D0,Motor data [13],18,0x12,DME1/DDE1
+512,0x200,Regular speed step speed [7],18,0x12,DME1/DDE1
+776,0x308,Status MSA [2],18,0x12,DME1/DDE1
+818,0x332,Driver display speed range [4],18,0x12,DME1/DDE1
+897,0x381,Electronic engine oil measuring rod [10],18,0x12,DME1/DDE1
+898,0x382,Electronic motor oil measuring rod m [1],18,0x12,DME1/DDE1
+910,0x38E,Start speed [1],18,0x12,DME1/DDE1
+947,0x3B3,Power management consumer control [8],18,0x12,DME1/DDE1
+948,0x3B4,Power management battery voltage [11],18,0x12,DME1/DDE1
+1007,0x3EF,OBD data engine (3),18,0x12,DME1/DDE1
+1193,0x4A9,Network management,41,0x29,DSC_CT/DSC_RB/DXC_RB
+1449,0x5A9,services,41,0x29,DSC_CT/DSC_RB/DXC_RB
+692,0x2B4,DWA alarm [4],65,0x41,DWA
+694,0x2B6,Control horn dwa [3],65,0x41,DWA
+983,0x3D7,Status DWA M [2],65,0x41,DWA
+1217,0x4C1,Network management,65,0x41,DWA
+1473,0x5C1,services,65,0x41,DWA
+187,0xBB,Bollmomen requirement [7],41,0x29,DXC_RB
+813,0x32D,Display HDC [3],41,0x29,DXC_RB
+225,0xE1,Radmoment brake [3],41,0x29,DXC_RB/DSC_RB
+182,0xB6,Torque requirement DSC [7],41,0x29,DXC_RB/DSC_RB/DSC_CT
+196,0xC4,Steering wheel angle K-CAN [13],41,0x29,DXC_RB/DSC_RB/DSC_CT
+206,0xCE,Cycle speed K-CAN [4],41,0x29,DXC_RB/DSC_RB/DSC_CT
+414,0x19E,Status DSC K-CAN [19],41,0x29,DXC_RB/DSC_RB/DSC_CT
+416,0x1A0,Speed K-CAN [14],41,0x29,DXC_RB/DSC_RB/DSC_CT
+422,0x1A6,Distance [6],41,0x29,DXC_RB/DSC_RB/DSC_CT
+690,0x2B2,Cycling pressures K-CAN [1],41,0x29,DXC_RB/DSC_RB/DSC_CT
+691,0x2B3,Acceleration data [2],41,0x29,DXC_RB/DSC_RB/DSC_CT
+797,0x31D,Status tire breakdown display [6],41,0x29,DXC_RB/DSC_RB/DSC_CT
+884,0x374,Cycle tolerance comparison [7],41,0x29,DXC_RB/DSC_RB/DSC_CT
+802,0x322,Dampers' current [2],57,0x39,EDCK_Modul
+806,0x326,Status damping program [9],57,0x39,EDCK_Modul
+1209,0x4B9,Network management,57,0x39,EDCK_Modul
+1465,0x5B9,services,57,0x39,EDCK_Modul
+945,0x3B1,Gearbox 3 [2],24,0x18,EGS_MECH/DKG
+181,0xB5,Torque requirement EGS [9],24,0x18,EGS_MECH+NAVI/EGS_MECH
+418,0x1A2,Gearbox 2 [6],24,0x18,EGS_MECH+NAVI/EGS_MECH/DKG
+530,0x212,Air feather height stands [8],56,0x38,EHC
+1208,0x4B8,Network management,56,0x38,EHC
+1464,0x5B8,services,56,0x38,EHC
+821,0x335,Status electrical fuel pump [3],23,0x17,EKP
+1175,0x497,Network management,23,0x17,EKP
+1431,0x597,services,23,0x17,EKP
+658,0x292,Control of the high beam assistant [2],95,0x5F,FLA
+1247,0x4DF,Network management,95,0x5F,FLA
+1503,0x5DF,services,95,0x5F,FLA
+408,0x198,Operation gear selection switch 2 [2],94,0x5E,GWS
+652,0x28C,Operation button vertical dynamics [2],94,0x5E,GWS
+1246,0x4DE,Network management,94,0x5E,GWS
+1502,0x5DE,services,94,0x5E,GWS
+730,0x2DA,Status tailgate lift [2],107,0x6B,HKL
+995,0x3E3,Status tailgate ckm [1],107,0x6B,HKL
+1259,0x4EB,Network management,107,0x6B,HKL
+1515,0x5EB,services,107,0x6B,HKL
+529,0x211,Status Hud [7],61,0x3D,HUD
+1213,0x4BD,Network management,61,0x3D,HUD
+1469,0x5BD,services,61,0x3D,HUD
+1235,0x4D3,Network management,83,0x53,IBOC
+1491,0x5D3,services,83,0x53,IBOC
+949,0x3B5,Status water valve [6],120,0x78,IHKA
+437,0x1B5,Heat flow/load torque climate [14],120,0x78,IHKA
+571,0x23B,Status climate front expanded [1],120,0x78,IHKA
+578,0x242,Status climate front [11],120,0x78,IHKA
+725,0x2D5,Status heating rear window [1],120,0x78,IHKA
+742,0x2E6,Status climate air distribution fa [13],120,0x78,IHKA
+746,0x2EA,Status climate air distribution BF [9],120,0x78,IHKA
+750,0x2EE,Status climate additional programs [2],120,0x78,IHKA
+752,0x2F0,Status climate stand functions [12],120,0x78,IHKA
+756,0x2F4,Control Climate SH/ZH Additional water pump [13],120,0x78,IHKA
+814,0x32E,Status climate internal rulinfo [6],120,0x78,IHKA
+991,0x3DF,Status climate ckm [6],120,0x78,IHKA
+1280,0x500,Data transfer [1],120,0x78,IHKA
+1272,0x4F8,Network management,120,0x78,IHKA
+1528,0x5F8,services,120,0x78,IHKA
+1237,0x4D5,Network management,85,0x55,ISpeechBox
+1493,0x5D5,services,85,0x55,ISpeechBox
+1211,0x4BB,Network management,59,0x3B,JNAV
+1467,0x5BB,services,59,0x3B,JNAV
+957,0x3BD,Status consumer shutdown [2],114,0x72,KBM
+252,0xFC,Control window lifter fath [5],114,0x72,KBM
+253,0xFD,Control window lifter BFTH [5],114,0x72,KBM
+230,0xE6,Status central locking BFTH [11],114,0x72,KBM
+238,0xEE,Status central locking Fath [11],114,0x72,KBM
+242,0xF2,Status central locking HK [13],114,0x72,KBM
+594,0x252,Wiper status [8],114,0x72,KBM
+758,0x2F6,Control light [7],114,0x72,KBM
+951,0x3B7,Position window liver fath [5],114,0x72,KBM
+953,0x3B9,Position window lifter BFTH [5],114,0x72,KBM
+1013,0x3F5,Status loading space cover CKM [1],114,0x72,KBM
+1266,0x4F2,Network management,114,0x72,KBM
+1522,0x5F2,services,114,0x72,KBM
+250,0xFA,Control window lifter FAT [10],0,0x0,KGM
+251,0xFB,Control window lifter BFT [5],0,0x0,KGM
+192,0xC0,Alive central gateway [1],0,0x0,KGM
+226,0xE2,Status central locking BFT [11],0,0x0,KGM
+234,0xEA,Status central lock FAT [11],0,0x0,KGM
+246,0xF6,Control external mirror [9],0,0x0,KGM
+620,0x26C,Operation Rollos FA [2],0,0x0,KGM
+928,0x3A0,Vehicle status [4],0,0x0,KGM
+940,0x3AC,Nach running time terminal 30 error -controlled [2],0,0x0,KGM
+950,0x3B6,Position window lift FAT [6],0,0x0,KGM
+952,0x3B8,Position window lifter BFT [6],0,0x0,KGM
+1152,0x480,Network management,0,0x0,KGM
+1408,0x580,services,0,0x0,KGM
+1210,0x4BA,Network management,58,0x3A,KHM
+1466,0x5BA,services,58,0x3A,KHM
+436,0x1B4,Status Kombi [14],96,0x60,Kombi
+517,0x205,Acoustic request station wagon [3],96,0x60,Kombi
+698,0x2BA,Stopwatch (3),96,0x60,Kombi
+704,0x2C0,LCD light density [7],96,0x60,Kombi
+714,0x2CA,Outside temperature [9],96,0x60,Kombi
+760,0x2F8,Time/date [12],96,0x60,Kombi
+784,0x310,Outside temperature/relative time [10],96,0x60,Kombi
+785,0x311,Night hinge [3],96,0x60,Kombi
+786,0x312,Service Call Teleservice [2],96,0x60,Kombi
+808,0x328,Relative time [9],96,0x60,Kombi
+816,0x330,Mileage/range [5],96,0x60,Kombi
+822,0x336,Display checkcontrol message (roll) [3],96,0x60,Kombi
+824,0x338,Control Display CheckControl message [7],96,0x60,Kombi
+860,0x35C,Status on -board computer [5],96,0x60,Kombi
+862,0x35E,Data on -board computer (travel dates) [5],96,0x60,Kombi
+864,0x360,Data on -board computer (starting at the journey) [2],96,0x60,Kombi
+866,0x362,Data on -board computer (average) [4],96,0x60,Kombi
+868,0x364,Data on -board computer (arrival) [2],96,0x60,Kombi
+870,0x366,The combination/external display [3],96,0x60,Kombi
+871,0x367,Control advertisement Display -oriented service [6],96,0x60,Kombi
+916,0x394,RDA request/data storage [5],96,0x60,Kombi
+1248,0x4E0,Network management,96,0x60,Kombi
+1504,0x5E0,services,96,0x60,Kombi
+173,0xAD,Delay request ACC [9],28,0x1C,LDM
+183,0xB7,Torque requirement ACC [10],28,0x1C,LDM
+191,0xBF,Requirement wheel moment drive train [6],28,0x1C,LDM
+213,0xD5,Requirement wheel moment brake [6],28,0x1C,LDM
+351,0x15F,Requirement angle ffp [6],28,0x1C,LDM
+400,0x190,ACC [13],28,0x1C,LDM
+403,0x193,ACC DCC [4],28,0x1C,LDM
+1180,0x49C,Network management,28,0x1C,LDM
+1436,0x59C,services,28,0x1C,LDM
+502,0x1F6,Blink [6],112,0x70,LM
+514,0x202,Dimination [10],112,0x70,LM
+538,0x21A,Lamp condition [13],112,0x70,LM
+550,0x226,Rain sensor wiper speed [8],112,0x70,LM
+774,0x306,Vehicle tendency [2],112,0x70,LM
+788,0x314,Status driving light [9],112,0x70,LM
+810,0x32A,Control ALC [2],112,0x70,LM
+944,0x3B0,Status gait backwards [2],112,0x70,LM
+979,0x3D3,Status Solarensor [1],112,0x70,LM
+985,0x3D9,Status RLS CKM [4],112,0x70,LM
+989,0x3DD,Status light ckm [4],112,0x70,LM
+993,0x3E1,Status alc ckm [1],112,0x70,LM
+1009,0x3F1,Status light expanded ckm [1],112,0x70,LM
+1280,0x500,Data transfer [1],112,0x70,LM
+1264,0x4F0,Network management,112,0x70,LM/LM_ALC
+1520,0x5F0,services,112,0x70,LM/LM_ALC
+370,0x172,Appeal requirement station wagon [1],98,0x62,M_ASK/CCC_GW
+426,0x1AA,Effect ErgoCommander [10],98,0x62,M_ASK/CCC_GW
+472,0x1D8,Operation climate air distribution fa [13],98,0x62,M_ASK/CCC_GW
+476,0x1DC,Operation layering seat heating [1],98,0x62,M_ASK/CCC_GW
+480,0x1E0,Operation climate air distribution BF [7],98,0x62,M_ASK/CCC_GW
+482,0x1E2,Operation Climate Front [11],98,0x62,M_ASK/CCC_GW
+528,0x210,Operation Hud [7],98,0x62,M_ASK/CCC_GW
+552,0x228,Operation special function [8],98,0x62,M_ASK/CCC_GW
+604,0x25C,Operation climate additional programs [2],98,0x62,M_ASK/CCC_GW
+674,0x2A2,Operation climate stand functions [5],98,0x62,M_ASK/CCC_GW
+676,0x2A4,Operation Personalization [8],98,0x62,M_ASK/CCC_GW
+696,0x2B8,Operation on -board computer [3],98,0x62,M_ASK/CCC_GW
+718,0x2CE,Control monitor [4],98,0x62,M_ASK/CCC_GW
+759,0x2F7,Units [10],98,0x62,M_ASK/CCC_GW
+787,0x313,Status Service Call Teleservice [3],98,0x62,M_ASK/CCC_GW
+817,0x331,Programming step speed [2],98,0x62,M_ASK/CCC_GW
+825,0x339,Status display functions external [1],98,0x62,M_ASK/CCC_GW
+858,0x35A,Date of Condition Based Service [2],98,0x62,M_ASK/CCC_GW
+920,0x398,Operation chassis [14],98,0x62,M_ASK/CCC_GW
+926,0x39E,Operation time/date [1],98,0x62,M_ASK/CCC_GW
+931,0x3A3,Requirement remote services [2],98,0x62,M_ASK/CCC_GW
+970,0x3CA,Configuration M-Drive [2],98,0x62,M_ASK/CCC_GW
+980,0x3D4,Configuration central locking CKM [3],98,0x62,M_ASK/CCC_GW
+982,0x3D6,Configuration DWA CKM [1],98,0x62,M_ASK/CCC_GW
+984,0x3D8,Configuration RLS CKM [3],98,0x62,M_ASK/CCC_GW
+986,0x3DA,Configuration Memory Positions CKM [1],98,0x62,M_ASK/CCC_GW
+988,0x3DC,Configuration light ckm [3],98,0x62,M_ASK/CCC_GW
+990,0x3DE,Configuration Climate CKM [5],98,0x62,M_ASK/CCC_GW
+992,0x3E0,Configuration ALC CKM [1],98,0x62,M_ASK/CCC_GW
+994,0x3E2,Configuration tailgate CKM [1],98,0x62,M_ASK/CCC_GW
+1008,0x3F0,Configuration light expanded CKM [1],98,0x62,M_ASK/CCC_GW
+1012,0x3F4,Configuration Load space cover CKM [1],98,0x62,M_ASK/CCC_GW
+1220,0x4C4,Network management,68,0x44,MDS/SHD
+1476,0x5C4,services,68,0x44,MDS/SHD
+1232,0x4D0,Network management,80,0x50,Notstrom-Sirene
+1488,0x5D0,services,80,0x50,Notstrom-Sirene
+542,0x21E,Status Night-Vision [2],87,0x57,NVC
+738,0x2E2,Status setting video night vision [1],87,0x57,NVC
+1239,0x4D7,Network management,87,0x57,NVC
+1495,0x5D7,services,87,0x57,NVC
+450,0x1C2,Spacement report PDC [5],100,0x64,PDC
+451,0x1C3,Spacement message 2 PDC [3],100,0x64,PDC
+454,0x1C6,Acoustic message PDC [5],100,0x64,PDC
+586,0x24A,Status PDC [6],100,0x64,PDC
+1252,0x4E4,Network management,100,0x64,PDC
+1508,0x5E4,services,100,0x64,PDC
+600,0x258,Status Transmission Passive Access [4],39,0x27,PGS
+792,0x318,Status antenna Passive Access [7],39,0x27,PGS
+1191,0x4A7,Network management,39,0x27,PGS
+1447,0x5A7,services,39,0x27,PGS
+796,0x31C,Status tire pressure [6],32,0x20,RDC
+1184,0x4A0,Network management,32,0x20,RDC
+1440,0x5A0,services,32,0x20,RDC
+550,0x226,Rain sensor wiper speed [8],69,0x45,RLS
+788,0x314,Status driving light [9],69,0x45,RLS
+985,0x3D9,Status RLS CKM [4],69,0x45,RLS
+1221,0x4C5,Network management,69,0x45,RLS/RLS
+1477,0x5C5,services,69,0x45,RLS/RLS
+1189,0x4A5,Network management,37,0x25,RSC_VDA/SC_CT/SC_VDA
+1445,0x5A5,services,37,0x25,RSC_VDA/SC_CT/SC_VDA
+1236,0x4D4,Network management,84,0x54,SDARS
+1492,0x5D4,services,84,0x54,SDARS
+0,0x00,unknown,0,0x00,Sender unbekannt
+4095,0xFFF,unknown,255,0xFF,Sender unbekannt
+748,0x2EC,Status climate SH/ZH additional water pump [14],122,0x7A,SH_ZH
+1274,0x4FA,Network management,122,0x7A,SH_ZH
+1530,0x5FA,services,122,0x7A,SH_ZH
+954,0x3BA,Position SHD [10],68,0x44,SHD/MDS
+554,0x22A,Status BFS [10],110,0x6E,SM_BF
+575,0x23F,Status operation seating comfort BF [1],110,0x6E,SM_BF
+845,0x34D,Status seating back lock BF [2],110,0x6E,SM_BF
+961,0x3C1,Configuration BFS [3],110,0x6E,SM_BF
+1262,0x4EE,Network management,110,0x6E,SM_BF/SM_BF_KBUS
+1518,0x5EE,services,110,0x6E,SM_BF/SM_BF_KBUS
+523,0x20B,Memory adjustment [6],109,0x6D,SM_FA
+524,0x20C,Control steering column (4),109,0x6D,SM_FA
+562,0x232,Status FAS [10],109,0x6D,SM_FA
+572,0x23C,Status operation seating comfort FA [1],109,0x6D,SM_FA
+843,0x34B,Status seating back lock FA (3),109,0x6D,SM_FA
+960,0x3C0,Configuration FAS [3],109,0x6D,SM_FA
+987,0x3DB,Status memory positions ckm3],109,0x6D,SM_FA
+1261,0x4ED,Network management,109,0x6D,SM_FA/SM_FA_KBUS
+1517,0x5ED,services,109,0x6D,SM_FA/SM_FA_KBUS
+419,0x1A3,Raw data longitudinal acceleration [3],24,0x18,SMG_M
+189,0xBD,Torque requirement SSG [6],24,0x18,SMG_M/SMG
+186,0xBA,Gear data [20],24,0x18,SMG_M/SMG/EGS_MECH+NAVI/EGS_MECH/DKG
+466,0x1D2,Display gear data [22],24,0x18,SMG_M/SMG/EGS_MECH+NAVI/EGS_MECH/DKG
+772,0x304,Status gang [13],24,0x18,SMG_M/SMG/EGS_MECH+NAVI/EGS_MECH/DKG
+200,0xC8,Steering wheel angle above K-CAN [6],2,0x2,SZL_LWS
+402,0x192,Operation gear selection switch [16],2,0x2,SZL_LWS
+404,0x194,Operation cruise control/ACC [13],2,0x2,SZL_LWS
+470,0x1D6,Operation button audio/telephone [12],2,0x2,SZL_LWS
+473,0x1D9,Operation button M-Drive [2],2,0x2,SZL_LWS
+490,0x1EA,Operation steering column adjustment [5],2,0x2,SZL_LWS
+494,0x1EE,Operation steering stick button [6],2,0x2,SZL_LWS
+678,0x2A6,Operation wiper button [12],2,0x2,SZL_LWS
+1154,0x482,Network management,2,0x2,SZL_LWS
+1410,0x582,services,2,0x2,SZL_LWS
+793,0x319,Operation button RDC [4],101,0x65,SZM
+523,0x20B,Memory adjustment [6],101,0x65,SZM_MIT_KBUS
+843,0x34B,Status seating back lock FA (3),101,0x65,SZM_MIT_KBUS
+845,0x34D,Status seating back lock BF [2],101,0x65,SZM_MIT_KBUS
+987,0x3DB,Status memory positions ckm3],101,0x65,SZM_MIT_KBUS
+210,0xD2,Operation Seat adjustment BF [6],101,0x65,SZM_MIT_KBUS/SZM
+218,0xDA,Operation seat adjustment fa [6],101,0x65,SZM_MIT_KBUS/SZM
+487,0x1E7,Operation seat heating/seat climate FA [7],101,0x65,SZM_MIT_KBUS/SZM
+488,0x1E8,Operation seat heating/seat climate BF [7],101,0x65,SZM_MIT_KBUS/SZM
+491,0x1EB,Operation Active seat FA [3],101,0x65,SZM_MIT_KBUS/SZM
+492,0x1EC,Operation active seat BF [3],101,0x65,SZM_MIT_KBUS/SZM
+493,0x1ED,Operation Active FA [2],101,0x65,SZM_MIT_KBUS/SZM
+495,0x1EF,Operation Leans width adjustment Active BF [2],101,0x65,SZM_MIT_KBUS/SZM
+498,0x1F2,Operation seat memory BF [3],101,0x65,SZM_MIT_KBUS/SZM
+499,0x1F3,Operation seat memory FA [4],101,0x65,SZM_MIT_KBUS/SZM
+525,0x20D,Position steering column (5),101,0x65,SZM_MIT_KBUS/SZM
+645,0x285,Control roller blind [3],101,0x65,SZM_MIT_KBUS/SZM
+789,0x315,Vehicle mode [7],101,0x65,SZM_MIT_KBUS/SZM
+791,0x317,Operation button PDC [1],101,0x65,SZM_MIT_KBUS/SZM
+1253,0x4E5,Network management,101,0x65,SZM/SZM_MIT_KBUS
+1509,0x5E5,services,101,0x65,SZM/SZM_MIT_KBUS
+787,0x313,Status Service Call Teleservice [3],54,0x36,TEL_BPI
+1206,0x4B6,Network management,54,0x36,TEL_BPI/TEL_JAP/TEL_MULF
+1462,0x5B6,services,54,0x36,TEL_BPI/TEL_JAP/TEL_MULF
+193,0xC1,Alive counter phone [3],54,0x36,TEL_JAP/TEL_BPI
+1245,0x4DD,Network management,93,0x5D,TLC
+1501,0x5DD,services,93,0x5D,TLC
+1985,0x7C1,CAS programming Band end 2 (3),255,0xFF,TOOL_BANDENDE_CAS
+1987,0x7C3,CAS application message 2 (3),255,0xFF,TOOL_BANDENDE_CAS
+500,0x1F4,Remote control Seat memory BF [2],255,0xFF,unbekannt
+558,0x22E,Status BFSH [7],255,0xFF,unbekannt
+566,0x236,Status Fashion [7],255,0xFF,unbekannt
+619,0x26B,Operation Rollos BF [2],255,0xFF,unbekannt
+621,0x26D,Operation Rollos MK [1],255,0xFF,unbekannt
+623,0x26F,Operation Rollos BFH [2],255,0xFF,unbekannt
+624,0x270,Operation Rollos Fah [2],255,0xFF,unbekannt
+656,0x290,Control reaction hydrogen vehicle [1],255,0xFF,unbekannt
+924,0x39C,EBA data request [5],255,0xFF,unbekannt
+1001,0x3E9,Marker 1 [1],255,0xFF,unbekannt
+1006,0x3EE,Requirement error message [1],255,0xFF,unbekannt
+188,0xBC,Status target moment implementation [7],25,0x19,VGSG
+886,0x376,Status wear lamella [3],25,0x19,VGSG
+1177,0x499,Network management,25,0x19,VGSG
+1433,0x599,services,25,0x19,VGSG
+1227,0x4CB,Network management,75,0x4B,VM
+1483,0x5CB,services,75,0x4B,VM
+1179,0x49B,Network management,27,0x1B,VVT1
+1435,0x59B,services,27,0x1B,VVT1
+1182,0x49E,Network management,30,0x1E,VVT2
+1438,0x59E,services,30,0x1E,VVT2
+1289,0x509,Network management,137,0x89,Xenon_Scheinwerfer_Links_ALC
+1545,0x609,services,137,0x89,Xenon_Scheinwerfer_Links_ALC
+1290,0x50A,Network management,138,0x8A,Xenon_Scheinwerfer_Rechts_ALC
+1546,0x60A,services,138,0x8A,Xenon_Scheinwerfer_Rechts_ALC
+440,0x1B8,Operation Ergocommander [6],103,0x67,ZBE_LO/ZBE
+1255,0x4E7,Network management,103,0x67,ZBE/ZBE_LO
+1511,0x5E7,services,103,0x67,ZBE/ZBE_LO

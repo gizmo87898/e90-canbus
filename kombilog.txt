@@ -1,0 +1,1012 @@
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    89 05 00 17 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2d 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    11 a2 72 48 e0 4c 16 ae
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779425.804030        ID: 02ba    S Rx                DL:  5    0c 28 11 00 00
+Received message: Timestamp: 1688779425.820034        ID: 01b4    S Rx                DL:  8    ff df e0 f0 10 30 fc a4
+Received message: Timestamp: 1688779425.821027        ID: 02f8    S Rx                DL:  8    15 17 2d 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779425.838999        ID: 04e0    S Rx                DL:  8    60 04 ff ff ff ff ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779425.919436        ID: 01b4    S Rx                DL:  8    ff df e0 f1 10 30 fc a5
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779425.952465        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    7b d8 1d d9 9f d2 18 a2
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    7a ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    7a ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 13 fc f0 43 00 7a
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    11 d8 00 27 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2d 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    91 e6 91 49 6b 11 25 cb
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.018483        ID: 01b4    S Rx                DL:  8    ff df e0 f2 10 30 fc a6
+Received message: Timestamp: 1688779426.020478        ID: 02f8    S Rx                DL:  8    15 17 2d 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.077211        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99Received message:
+ Timestamp: 1688779426.119633        ID: 01b4    S Rx                DL:  8    ff df e0 f3 10 30 fc a7
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    c7 05 a0 e5 f7 8c 25 c0
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    7b ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    7b ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 43 fc f0 43 00 7b
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    4f 8a 00 37 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Received message: Timestamp: 1688779426.204553        ID: 02ba    S Rx                DL:  5    0c 28 11 90 01
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2d 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    f9 22 6c 36 cb 6e 6f ec
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.219578        ID: 01b4    S Rx                DL:  8    ff df e0 f4 10 30 fc a8
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.303058        ID: 02f8    S Rx                DL:  8    15 17 2d 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.319523        ID: 01b4    S Rx                DL:  8    ff df e0 f5 10 30 fc a9
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.352736        ID: 0205    S Rx                DL:  2    f1 ff
+Received message: Timestamp: 1688779426.371685        ID: 0328    S Rx                DL:  6    24 8b 02 00 ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    b2 ab 1a 55 37 2f 0f ac
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    7c ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    7c ff
+Received message: Timestamp: 1688779426.420805        ID: 01b4    S Rx                DL:  8    ff df e0 f6 10 30 fc aa
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 73 fc f0 43 00 7c
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    52 04 00 47 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2e 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    18 15 ca 10 44 fb 7c a1
+Received message: Timestamp: 1688779426.439426        ID: 02ca    S Rx                DL:  2    ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.521791        ID: 01b4    S Rx                DL:  8    ff df e0 f7 10 30 fc ab
+Received message: Timestamp: 1688779426.522788        ID: 02f8    S Rx                DL:  8    15 17 2e 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.619725        ID: 01b4    S Rx                DL:  8    ff df e0 f8 10 30 fc ac
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    5f ce 76 a5 42 3c 79 10
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    7d ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    7d ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 a3 fc f0 43 00 7d
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    da 53 00 57 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2e 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    15 1d d2 59 6d 86 7c fb
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.676577        ID: 0338    S Rx                DL:  8    b3 00 20 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.719982        ID: 01b4    S Rx                DL:  8    ff df e0 f9 10 30 fc ad
+Received message: Timestamp: 1688779426.723967        ID: 02f8    S Rx                DL:  8    15 17 2e 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.752408        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.802904        ID: 02ba    S Rx                DL:  5    0c 28 12 00 00
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.819273        ID: 01b4    S Rx                DL:  8    ff df e0 fa 10 30 fc ae
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.839221        ID: 04e0    S Rx                DL:  8    60 04 ff ff ff ff ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    a4 cf 19 89 9e 2c 1a 2f
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    7e ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    7e ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 d3 fc f0 43 00 7e
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    ad 85 00 67 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2e 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    53 46 70 8b 34 2b 0e 4a
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779426.920468        ID: 01b4    S Rx                DL:  8    ff df e0 fb 10 30 fc af
+Sent message (20ms):Received message: Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Timestamp: 1688779426.921465        ID: 02f8    S Rx                DL:  8    15 17 2e 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.019412        ID: 01b4    S Rx                DL:  8    ff df e0 fc 10 30 fc b0
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.076741        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    ba 34 38 66 ed 3d 0d b6
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    7f ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    7f ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 03 fc f0 43 00 7f
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    6e 97 00 77 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2e 07 7f e7 07 f2
+Received message: Timestamp: 1688779427.118649        ID: 01b4    S Rx                DL:  8    ff df e0 fd 10 30 fc b1
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    7b 64 d5 f9 cb 9f d5 78
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.153555        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.203002        ID: 02f8    S Rx                DL:  8    15 17 2e 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.218960        ID: 01b4    S Rx                DL:  8    ff df e0 fe 10 30 fc b2
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.318517        ID: 01b4    S Rx                DL:  8    ff df e0 f0 10 30 fc a4
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    21 67 a8 8e ab 81 27 0a
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    80 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    80 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 33 fc f0 43 00 80
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    c3 e9 00 87 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2f 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    ea fe bf 04 28 ea dc b4
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.355231        ID: 0205    S Rx                DL:  2    f0 ff
+Received message: Timestamp: 1688779427.372226        ID: 0328    S Rx                DL:  6    25 8b 02 00 ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.376216        ID: 0336    S Rx                DL:  7    00 2b 01 fe ff fe ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.420200        ID: 01b4    S Rx                DL:  8    ff df e0 f1 10 30 fc a5
+Received message: Timestamp: 1688779427.421198        ID: 02f8    S Rx                DL:  8    15 17 2f 07 7f e7 07 fd
+Received message: Timestamp: 1688779427.440790        ID: 02ca    S Rx                DL:  2    ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.520077        ID: 01b4    S Rx                DL:  8    ff df e0 f2 10 30 fc a6
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    07 17 e6 07 fa 59 9c b7
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    81 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    81 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 63 fc f0 43 00 81
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    81 c2 00 97 f0
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2f 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    ea 70 ca 6b 10 7b 6b 97
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.620402        ID: 01b4    S Rx                DL:  8    ff df e0 f3 10 30 fc a7
+Received message: Timestamp: 1688779427.621399        ID: 02f8    S Rx                DL:  8    15 17 2f 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.676629        ID: 0338    S Rx                DL:  8    b3 00 20 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.719558        ID: 01b4    S Rx                DL:  8    ff df e0 f4 10 30 fc a8
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    d6 a4 e0 a7 ca f1 b5 41
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    82 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    82 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 93 fc f0 43 00 82
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    39 50 00 a7 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2f 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    0f 45 2b ee 66 3f 85 65
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.806093        ID: 02ba    S Rx                DL:  5    0c 28 13 00 00
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.820562        ID: 01b4    S Rx                DL:  8    ff df e0 f5 10 30 fc a9
+Received message: Timestamp: 1688779427.821560        ID: 02f8    S Rx                DL:  8    15 17 2f 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.840594        ID: 04e0    S Rx                DL:  8    60 04 ff ff ff ff ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779427.918785        ID: 01b4    S Rx                DL:  8    ff df e0 f6 10 30 fc aa
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    d3 25 d1 59 73 78 31 ac
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    83 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    83 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 c3 fc f0 43 00 83
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    e4 db 00 b7 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 2f 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    4d 2c b2 14 f8 ea f2 82
+Received message: Timestamp: 1688779428.019228        ID: 01b4    S Rx                DL:  8    ff df e0 f7 10 30 fc ab
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.076302        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.103231        ID: 02f8    S Rx                DL:  8    15 17 2f 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.119188        ID: 01b4    S Rx                DL:  8    ff df e0 f8 10 30 fc ac
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Sent message (20ms):Timestamp: 1688779428.204072        ID: 05e0    S Rx                DL:  8    8c 00 f2 00 00 ff ff ff 
+Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    7b 4e 2f 70 46 01 67 bd
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    84 ff
+Received message: Timestamp: 1688779428.220102        ID: 01b4    S Rx                DL:  8    ff df e0 f9 10 30 fc ad
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    84 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 f3 fc f0 43 00 84
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    58 de 00 c7 f0
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 30 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    a0 96 c7 a5 92 83 dd 4a
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.260327        ID: 0330    S Rx                DL:  8    ff ff ff 2e 20 3c 6c 24
+Received message: Timestamp: 1688779428.261324        ID: 02f8    S Rx                DL:  8    15 17 2f 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.321245        ID: 01b4    S Rx                DL:  8    ff df e0 fa 10 30 fc ae
+Received message: Timestamp: 1688779428.321245        ID: 02f8    S Rx                DL:  8    15 17 30 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.372611        ID: 0328    S Rx                DL:  6    26 8b 02 00 ff ff
+Received message: Timestamp: 1688779428.376600        ID: 0338    S Rx                DL:  8    b3 00 01 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.422091        ID: 01b4    S Rx                DL:  8    ff df e0 fb 10 30 fc af
+Received message: Timestamp: 1688779428.422091        ID: 0202    S Rx                DL:  2    7e ff
+Received message: Timestamp: 1688779428.423062        ID: 035c    S Rx                DL:  4    cf f0 ff 50
+Received message: Timestamp: 1688779428.424083        ID: 035e    S Rx                DL:  8    ff ff ff ff ff ff ff ff
+Received message: Timestamp: 1688779428.424083        ID: 0360    S Rx                DL:  7    ff ff ff ff ff ff ff
+Received message: Timestamp: 1688779428.425083        ID: 0362    S Rx                DL:  7    fd df ff ff ff ff ee
+Received message: Timestamp: 1688779428.428146        ID: 0364    S Rx                DL:  7    ff ff ff ff ff ff ff
+Received message: Timestamp: 1688779428.429116        ID: 0366    S Rx                DL:  4    00 a0 16 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    66 f0 d1 7e 31 56 73 a9
+Received message: Timestamp: 1688779428.439584        ID: 02ca    S Rx                DL:  2    ff ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    85 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    85 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 23 fc f0 43 00 85
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    5c 28 00 d7 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 30 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    e6 57 61 12 a6 4a 09 9d
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.520461        ID: 01b4    S Rx                DL:  8    ff df e0 fc 10 30 fc b0
+Received message: Timestamp: 1688779428.521431        ID: 02f8    S Rx                DL:  8    15 17 30 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.618789        ID: 01b4    S Rx                DL:  8    ff df e0 fd 10 30 fc b1
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    43 2d 42 bb c1 8f b3 29
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    86 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    86 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 53 fc f0 43 00 86
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    6b 51 00 e7 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Received message: Timestamp: 1688779428.677923        ID: 0338    S Rx                DL:  8    b3 00 20 f0 00 fe fe fe
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 30 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    03 e9 70 7b 31 c5 79 03
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.705901        ID: 05e0    S Rx                DL:  8    8c 01 00 20 00 3c 00 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.721854        ID: 01b4    S Rx                DL:  8    ff df e0 fe 10 30 fc b2
+Received message: Timestamp: 1688779428.721854        ID: 02f8    S Rx                DL:  8    15 17 30 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.802866        ID: 02ba    S Rx                DL:  5    0c 28 14 00 00
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.818504        ID: 01b4    S Rx                DL:  8    ff df e0 f0 10 30 fc a4
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779428.839541        ID: 04e0    S Rx                DL:  8    60 04 ff ff ff ff ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    be 35 a8 72 04 4c 6a f9
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    87 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    87 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 83 fc f0 43 00 87
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    90 4d 00 07 f0
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 30 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    d4 ba 2a bd 9d 91 da 28
+Received message: Timestamp: 1688779428.918834        ID: 01b4    S Rx                DL:  8    ff df e0 f1 10 30 fc a5
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.002898        ID: 02f8    S Rx                DL:  8    15 17 30 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.019104        ID: 01b4    S Rx                DL:  8    ff df e0 f2 10 30 fc a6
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    8a e2 b7 bf d2 dc ff 10
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    88 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    88 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 b3 fc f0 43 00 88
+Received message: Timestamp: 1688779429.120473        ID: 01b4    S Rx                DL:  8    ff df e0 f3 10 30 fc a7
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    60 0c 00 17 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 30 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    7a 4f cd b4 1a fe e4 dc
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.157548        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Received message:Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99 
+Timestamp: 1688779429.178551        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe
+Received message: Timestamp: 1688779429.179485        ID: 0336    S Rx                DL:  7    00 b3 00 2b 01 fe ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.219541        ID: 01b4    S Rx                DL:  8    ff df e0 f4 10 30 fc a8
+Received message: Timestamp: 1688779429.220508        ID: 02f8    S Rx                DL:  8    15 17 30 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.320749        ID: 01b4    S Rx                DL:  8    ff df e0 f5 10 30 fc a9
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    95 db 66 11 51 83 6b 23
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    89 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    89 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 e3 fc f0 43 00 89
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    ff f4 00 27 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 31 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    de 00 02 89 54 11 f5 ba
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.371577        ID: 0328    S Rx                DL:  6    27 8b 02 00 ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.419453        ID: 01b4    S Rx                DL:  8    ff df e0 f6 10 30 fc aa
+Received message: Timestamp: 1688779429.421447        ID: 02f8    S Rx                DL:  8    15 17 31 07 7f e7 07 fd
+Received message: Timestamp: 1688779429.438402        ID: 02ca    S Rx                DL:  2    ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.518591        ID: 01b4    S Rx                DL:  8    ff df e0 f7 10 30 fc ab
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.552365        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    b1 ad 8b e1 8c 6f 0d 13
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    8a ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    8a ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 13 fc f0 43 00 8a
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    e2 cf 00 37 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 31 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    01 ea 9e ce 72 94 9a 36
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.620552        ID: 01b4    S Rx                DL:  8    ff df e0 f8 10 30 fc ac
+Received message: Timestamp: 1688779429.622547        ID: 02f8    S Rx                DL:  8    15 17 31 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.676456        ID: 0338    S Rx                DL:  8    b3 00 20 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.720540        ID: 01b4    S Rx                DL:  8    ff df e0 f9 10 30 fc ad
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    05 44 0c 6b 3e 5b b1 6e
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    8b ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    8b ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 43 fc f0 43 00 8b
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    29 d7 00 47 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 31 07 7f e7 07 f2
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    a6 50 a6 60 de 90 81 50
+Received message: Timestamp: 1688779429.807962        ID: 02ba    S Rx                DL:  5    0c 28 15 00 00
+Received message: Timestamp: 1688779429.818933        ID: 01b4    S Rx                DL:  8    ff df e0 fa 10 30 fc ae
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.838785        ID: 04e0    S Rx                DL:  8    60 04 ff ff ff ff ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.904202        ID: 02f8    S Rx                DL:  8    15 17 31 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.920160        ID: 01b4    S Rx                DL:  8    ff df e0 fb 10 30 fc af
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779429.953584        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    59 38 c1 fa f6 21 92 7c
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    8c ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    8c ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 73 fc f0 43 00 8c
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    73 5e 00 57 f0
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Received message: Timestamp: 1688779430.020591        ID: 01b4    S Rx                DL:  8    ff df e0 fc 10 30 fc b0
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 31 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    b4 1c 53 ef 59 54 98 3a
+Received message: Timestamp: 1688779430.028570        ID: 05e0    S Rx                DL:  8    11 ff ff 01 ff ff fc ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.076259        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.120706        ID: 01b4    S Rx                DL:  8    ff df e0 fd 10 30 fc b1
+Received message: Timestamp: 1688779430.122699        ID: 02f8    S Rx                DL:  8    15 17 31 07 7f e7 07 fd
+Received message: Timestamp: 1688779430.127686        ID: 05e0    S Rx                DL:  8    11 ff ff 02 ff ff fc ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.220663        ID: 01b4    S Rx                DL:  8    ff df e0 fe 10 30 fc b2
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    1b b2 38 ec c2 c8 bd 48
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    8d ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    8d ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 a3 fc f0 43 00 8d
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    f8 f5 00 67 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 32 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    f7 a0 50 79 eb 8b 30 8a
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.320661        ID: 01b4    S Rx                DL:  8    ff df e0 f0 10 30 fc a4
+Received message: Timestamp: 1688779430.321613        ID: 02f8    S Rx                DL:  8    15 17 32 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.352665        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.372681        ID: 0328    S Rx                DL:  6    28 8b 02 00 ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.420157        ID: 01b4    S Rx                DL:  8    ff df e0 f1 10 30 fc a5
+Received message: Timestamp: 1688779430.438776        ID: 02ca    S Rx                DL:  2    ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    b4 b4 47 07 bc cb cc bf
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    8e ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    8e ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 d3 fc f0 43 00 8e
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    85 8a 00 77 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 32 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    f6 f5 28 4a 2b 0a d6 f8
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.500906        ID: 02c0    S Rx                DL:  3    1f 81 01
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.520055        ID: 01b4    S Rx                DL:  8    ff df e0 f2 10 30 fc a6
+Received message: Timestamp: 1688779430.521079        ID: 02f8    S Rx                DL:  8    15 17 32 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.619568        ID: 01b4    S Rx                DL:  8    ff df e0 f3 10 30 fc a7
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.676592        ID: 0338    S Rx                DL:  8    b3 00 20 f0 00 fe fe fe
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    f4 42 31 f3 8b f0 c1 ed
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    8f ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    8f ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 03 fc f0 43 00 8f
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    75 5c 00 87 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 32 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    bb 2c 20 d2 71 ba b9 19
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.720643        ID: 01b4    S Rx                DL:  8    ff df e0 f4 10 30 fc a8
+Received message: Timestamp: 1688779430.721641        ID: 02f8    S Rx                DL:  8    15 17 32 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.752528        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.803030        ID: 02ba    S Rx                DL:  5    0c 28 16 00 00
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.819287        ID: 01b4    S Rx                DL:  8    ff df e0 f5 10 30 fc a9
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779430.839248        ID: 04e0    S Rx                DL:  8    60 04 ff ff ff ff ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    47 8b f9 c3 68 a0 3b 9b
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    90 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    90 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 33 fc f0 43 00 90
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    b0 e9 00 97 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 32 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    69 b0 7a a8 c8 6a 16 f9
+Received message: Timestamp: 1688779430.919811        ID: 01b4    S Rx                DL:  8    ff df e0 f6 10 30 fc aa
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.003005        ID: 02f8    S Rx                DL:  8    15 17 32 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.019975        ID: 01b4    S Rx                DL:  8    ff df e0 f7 10 30 fc ab
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.076928        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.119814        ID: 01b4    S Rx                DL:  8    ff df e0 f8 10 30 fc ac
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    b7 f7 f8 0d 1f 65 3c bc
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    91 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    91 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 63 fc f0 43 00 91
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    9b cf 00 a7 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 32 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    ad 44 ca 9a fe d4 09 2e
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.155876        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.203773        ID: 02ba    S Rx                DL:  5    00 00 00 bc 22
+Received message: Timestamp: 1688779431.220727        ID: 01b4    S Rx                DL:  8    ff df e0 f9 10 30 fc ad
+Received message: Timestamp: 1688779431.220727        ID: 02f8    S Rx                DL:  8    15 17 32 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.320128        ID: 01b4    S Rx                DL:  8    ff df e0 fa 10 30 fc ae
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    14 8d 92 01 c6 93 22 df
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    92 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    92 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 93 fc f0 43 00 92
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    82 42 00 b7 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 33 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    11 60 a3 20 1f cf 45 e5
+Received message: Timestamp: 1688779431.372877        ID: 0328    S Rx                DL:  6    29 8b 02 00 ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.420654        ID: 01b4    S Rx                DL:  8    ff df e0 fb 10 30 fc af
+Received message: Timestamp: 1688779431.420654        ID: 02f8    S Rx                DL:  8    15 17 33 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.438832        ID: 02ca    S Rx                DL:  2    ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.519567        ID: 01b4    S Rx                DL:  8    ff df e0 fc 10 30 fc b0
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.552620        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    dd 28 d6 f0 c4 5e 34 a3
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    93 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    93 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 c3 fc f0 43 00 93
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    9f 7c 00 c7 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 33 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    56 8f 72 c3 ba 06 d5 be
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Received message:Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99 Timestamp: 1688779431.619008        ID: 01b4    S Rx                DL:  8    
+ff df e0 fd 10 30 fc b1
+
+Received message: Timestamp: 1688779431.624990        ID: 02f8    S Rx                DL:  8    15 17 33 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.677063        ID: 0338    S Rx                DL:  8    b3 00 20 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Received message:Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+ Timestamp: 1688779431.719537        ID: 01b4    S Rx                DL:  8    ff df e0 fe 10 30 fc b2
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    a3 87 b3 77 c4 8d 3d 59
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    94 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    94 ff
+Received message: Timestamp: 1688779431.802498        ID: 02ba    S Rx                DL:  5    0c 28 17 00 00
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 f3 fc f0 43 00 94
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    48 6c 00 d7 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 33 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    73 79 58 d2 3d de 2e 8c
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.820631        ID: 01b4    S Rx                DL:  8    ff df e0 f0 10 30 fc a4
+Received message: Timestamp: 1688779431.838696        ID: 04e0    S Rx                DL:  8    60 04 ff ff ff ff ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.902813        ID: 02f8    S Rx                DL:  8    15 17 33 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.920764        ID: 01b4    S Rx                DL:  8    ff df e0 f1 10 30 fc a5
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779431.952812        ID: 0205    S Rx                DL:  2    f1 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.018772        ID: 01b4    S Rx                DL:  8    ff df e0 f2 10 30 fc a6
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    7d 62 b1 b4 9a 6c 4e 14
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    95 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    95 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 23 fc f0 43 00 95
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    68 c8 00 e7 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 33 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    d9 95 60 83 e0 da d7 d8
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Sent message (20ms):Timestamp: 1688779432.076800        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe 
+Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.121294        ID: 01b4    S Rx                DL:  8    ff df e0 f3 10 30 fc a7
+Received message: Timestamp: 1688779432.121294        ID: 02f8    S Rx                DL:  8    15 17 33 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.154020        ID: 0205    S Rx                DL:  2    f0 ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.176061        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.219032        ID: 01b4    S Rx                DL:  8    ff df e0 f4 10 30 fc a8
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    44 7d 74 eb 34 06 bd c7
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    96 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    96 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 53 fc f0 43 00 96
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    63 2a 00 07 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 34 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    43 46 bd f1 74 79 a5 a1
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.320676        ID: 01b4    S Rx                DL:  8    ff df e0 f5 10 30 fc a9
+Received message: Timestamp: 1688779432.320676        ID: 02f8    S Rx                DL:  8    15 17 34 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.371683        ID: 0328    S Rx                DL:  6    2a 8b 02 00 ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.418631        ID: 01b4    S Rx                DL:  8    ff df e0 f6 10 30 fc aa
+Received message: Timestamp: 1688779432.438803        ID: 02ca    S Rx                DL:  2    ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    65 18 95 a2 4b b7 8f 4b
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    97 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    97 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 83 fc f0 43 00 97
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    38 9c 00 17 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 34 07 7f e7 07 f2
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    65 5c f2 7b cc 72 66 c3
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.519887        ID: 01b4    S Rx                DL:  8    ff df e0 f7 10 30 fc ab
+Received message: Timestamp: 1688779432.520885        ID: 02f8    S Rx                DL:  8    15 17 34 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.619803        ID: 01b4    S Rx                DL:  8    ff df e0 f8 10 30 fc ac
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.677562        ID: 0338    S Rx                DL:  8    b3 00 20 f0 00 fe fe fe
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    93 8f ab aa 15 b4 65 78
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    98 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    98 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 b3 fc f0 43 00 98
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    e9 33 00 27 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 34 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    95 d7 f1 7f c9 e4 4e 5e
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.719462        ID: 01b4    S Rx                DL:  8    ff df e0 f9 10 30 fc ad
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms):Received message:  Timestamp: 1688779432.805646        ID: 02f8    S Rx                DL:  8    15 17 34 07 7f e7 07 fd
+Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.806558        ID: 02ba    S Rx                DL:  5    0c 28 18 00 00
+Received message: Timestamp: 1688779432.819339        ID: 01b4    S Rx                DL:  8    ff df e0 fa 10 30 fc ae
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.839520        ID: 04e0    S Rx                DL:  8    60 04 ff ff ff ff ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    a1 e8 ff f5 28 55 87 b2
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    99 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    99 ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f feReceived message: Timestamp: 1688779432.919888        ID: 01b4    S Rx                DL:  8    ff df e0 fb 10 30 fc af
+
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 e3 fc f0 43 00 99
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    87 7e 00 37 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 34 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    8b 56 f0 da cc fd 4b 01
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779432.976744        ID: 0336    S Rx                DL:  7    00 2b 01 fe ff fe ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.020260        ID: 01b4    S Rx                DL:  8    ff df e0 fc 10 30 fc b0
+Received message: Timestamp: 1688779433.021259        ID: 02f8    S Rx                DL:  8    15 17 34 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.076168        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.119526        ID: 01b4    S Rx                DL:  8    ff df e0 fd 10 30 fc b1
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    64 52 9d d1 d4 ad c8 41
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    9a ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    9a ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 13 fc f0 43 00 9a
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    35 0e 00 47 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 34 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    3a 57 79 4b 7e 17 a8 0a
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.221676        ID: 01b4    S Rx                DL:  8    ff df e0 fe 10 30 fc b2
+Received message: Timestamp: 1688779433.222672        ID: 02f8    S Rx                DL:  8    15 17 34 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.319715        ID: 01b4    S Rx                DL:  8    ff df e0 f0 10 30 fc a4
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    c5 fd 57 e5 eb bc 79 53
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    9b ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    9b ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 43 fc f0 43 00 9b
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    57 14 00 57 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Received message: Timestamp: 1688779433.373488        ID: 0328    S Rx                DL:  6    2b 8b 02 00 ff ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 35 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    5b d3 66 ee 85 2e 0d 56
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.420113        ID: 01b4    S Rx                DL:  8    ff df e0 f1 10 30 fc a5
+Received message: Timestamp: 1688779433.421106        ID: 0202    S Rx                DL:  2    7e ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.421106        ID: 02f8    S Rx                DL:  8    15 17 35 07 7f e7 07 fd
+Received message: Timestamp: 1688779433.422602        ID: 035c    S Rx                DL:  4    cf f0 ff 50
+Received message: Timestamp: 1688779433.426587        ID: 035e    S Rx                DL:  8    ff ff ff ff ff ff ff ff
+Received message: Timestamp: 1688779433.426587        ID: 0360    S Rx                DL:  7    ff ff ff ff ff ff ff
+Received message: Timestamp: 1688779433.426587        ID: 0362    S Rx                DL:  7    fd df ff ff ff ff ee
+Received message: Timestamp: 1688779433.429591        ID: 0364    S Rx                DL:  7    ff ff ff ff ff ff ff
+Received message: Timestamp: 1688779433.430589        ID: 0366    S Rx                DL:  4    00 a0 16 fd
+Received message: Timestamp: 1688779433.438570        ID: 02ca    S Rx                DL:  2    ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.519542        ID: 01b4    S Rx                DL:  8    ff df e0 f2 10 30 fc a6
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    a2 25 9f 50 be dd 52 14
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    9c ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    9c ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 73 fc f0 43 00 9c
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    91 a1 00 67 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 35 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    19 48 4e 9d 85 6a 35 32
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.619574        ID: 01b4    S Rx                DL:  8    ff df e0 f3 10 30 fc a7
+Received message: Timestamp: 1688779433.620571        ID: 02f8    S Rx                DL:  8    15 17 35 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.677016        ID: 0338    S Rx                DL:  8    b3 00 20 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.720915        ID: 01b4    S Rx                DL:  8    ff df e0 f4 10 30 fc a8
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.802243        ID: 02ba    S Rx                DL:  5    0c 28 19 00 00
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    e1 46 78 d2 87 ca 44 81
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    9d ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    9d ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 a3 fc f0 43 00 9d
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    52 54 00 77 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Received message: Timestamp: 1688779433.819495        ID: 01b4    S Rx                DL:  8    ff df e0 f5 10 30 fc a9
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 35 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    0b 2d a3 a0 f3 84 39 90
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.839485        ID: 04e0    S Rx                DL:  8    60 04 ff ff ff ff ff ff
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779433.902869        ID: 02f8    S Rx                DL:  8    15 17 35 07 7f e7 07 fd
+Received message: Timestamp: 1688779433.919472        ID: 01b4    S Rx                DL:  8    ff df e0 f6 10 30 fc aa
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779434.018745        ID: 01b4    S Rx                DL:  8    ff df e0 f7 10 30 fc ab
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    c8 1c 03 7a 64 85 5e 48
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    9e ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    9e ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 d3 fc f0 43 00 9e
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    6d 07 00 87 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 35 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    13 5a 04 0c b0 30 1d d3
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779434.075979        ID: 0338    S Rx                DL:  8    b3 00 02 f0 00 fe fe fe
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779434.118863        ID: 01b4    S Rx                DL:  8    ff df e0 f8 10 30 fc ac
+Received message: Timestamp: 1688779434.120860        ID: 02f8    S Rx                DL:  8    15 17 35 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779434.218660        ID: 01b4    S Rx                DL:  8    ff df e0 f9 10 30 fc ad
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 0180    S Rx                DL:  8    20 c7 f5 e8 00 f3 9e 81
+Sent message (100ms): Timestamp:        0.000000        ID: 00c0    S Rx                DL:  2    9f ff
+Sent message (100ms): Timestamp:        0.000000        ID: 00d7    S Rx                DL:  2    9f ff
+Sent message (100ms): Timestamp:        0.000000        ID: 0130    S Rx                DL:  5    45 40 21 8f fe
+Sent message (100ms): Timestamp:        0.000000        ID: 019e    S Rx                DL:  8    00 e0 03 fc f0 43 00 9f
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (100ms): Timestamp:        0.000000        ID: 01d2    S Rx                DL:  5    e2 d5 00 97 f0
+Sent message (100ms): Timestamp:        0.000000        ID: 034f    S Rx                DL:  2    fc ff
+Sent message (100ms): Timestamp:        0.000000        ID: 021a    S Rx                DL:  3    05 12 f7
+Sent message (100ms): Timestamp:        0.000000        ID: 0349    S Rx                DL:  5    76 0f be 1a 00
+Sent message (100ms): Timestamp:        0.000000        ID: 039e    S Rx                DL:  8    15 17 36 07 7f e7 07 f2
+Sent message (100ms): Timestamp:        0.000000        ID: 0190    S Rx                DL:  8    48 5a 61 8e 39 43 95 86
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
+Received message: Timestamp: 1688779434.319045        ID: 01b4    S Rx                DL:  8    ff df e0 fa 10 30 fc ae
+Received message: Timestamp: 1688779434.320043        ID: 02f8    S Rx                DL:  8    15 17 36 07 7f e7 07 fd
+Sent message (20ms): Timestamp:        0.000000        ID: 00aa    S Rx                DL:  8    5f 59 ff 00 34 0d 80 99
